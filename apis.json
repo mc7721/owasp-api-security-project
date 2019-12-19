@@ -1,0 +1,36 @@
+{
+    "name": "OWASP API Security Project",
+    "description": "<p>This project is designed to address the ever-increasing number of organizations that are deploying potentially sensitive APIs as part of their software offerings. These APIs are used for internal tasks and to interface with third parties. Unfortunately, many APIs do not undergo the rigorous security testing that would render them secure from attack.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/OWASP_API_Security_Project_-_OWASP.png",
+    "tags": [
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/owasp-api-security-project\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OWASP API Security Project",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/OWASP_API_Security_Project_-_OWASP.png",
+            "humanURL": "https:\/\/www.owasp.org\/index.php\/OWASP_API_Security_Project",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/owasp-api-security-project-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "https:\/\/www.owasp.org\/index.php\/OWASP_API_Security_Project"
+        }
+    ]
+}
